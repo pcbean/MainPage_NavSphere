@@ -4,7 +4,7 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
+GITHUB_ID = "MDQ6VXNlcjYxOTgwNTg="
 GITHUB_OWNER = "pcbean"
 GITHUB_REPO = "MainPage_NavSphere"
 GITHUB_BRANCH = "main"
