@@ -92,8 +92,8 @@
               "id": "9_4",
               "title": "Microsoft Copilot",
               "href": "https://copilot.microsoft.com/",
-              "description": "Microsoft Copilot 是为你提供信息、娱乐和激发灵感的助手。获取建议、反馈和简单的答案。立即试用 Copilot。",
-              "icon": "/assets/favicon_1758599845861.ico",
+              "description": "微软GPT5",
+              "icon": "/assets/favicon_1758825253738.ico",
               "enabled": true
             },
             {
