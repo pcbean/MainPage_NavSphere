@@ -503,6 +503,14 @@
               "description": "dns.army/v6.rocks",
               "icon": "/assets/favicon_1758828888118.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758828972270_7loc67apg",
+              "title": "DnsHE",
+              "href": "https://my.dnshe.com/index.php?m=cloudflare_subdomain",
+              "description": "ccwu.cc/de5.net",
+              "icon": "/assets/favicon_1758828944854.png",
+              "enabled": true
             }
           ]
         }
