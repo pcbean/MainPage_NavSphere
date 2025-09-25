@@ -985,8 +985,8 @@
               "id": "site_1758816328286_ubeo4q2az",
               "title": "MISUB_VIP",
               "href": "https://subgui.pcbean.nyc.mn/",
-              "description": "",
-              "icon": "/assets/img_1758816307771.png",
+              "description": "基于 Cloudflare 的订阅转换和管理工具",
+              "icon": "https://subgui.pcbean.nyc.mn/data:image/svg+xml,%3csvg xmlns=",
               "enabled": true
             },
             {
