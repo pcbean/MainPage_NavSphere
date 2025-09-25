@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
 GITHUB_OWNER = "pcbean"
 GITHUB_REPO = "MainPage_NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "mainpage-navsphere.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="mainpage-navsphere.pages.dev"
+NEXTAUTH_URL = "https://mainpage-navsphere.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://mainpage-navsphere.pages.dev"
 
