@@ -993,8 +993,8 @@
               "id": "site_1758816391682_mr65ulya1",
               "title": "MISUB_Public",
               "href": "https://cfsub.pcbean.qzz.io/",
-              "description": "",
-              "icon": "/assets/img_1758816307771.png",
+              "description": "基于 Cloudflare 的订阅转换和管理工具",
+              "icon": "https://cfsub.pcbean.qzz.io/data:image/svg+xml,%3csvg xmlns=",
               "enabled": true
             }
           ]
