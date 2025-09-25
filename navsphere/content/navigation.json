@@ -487,7 +487,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758828836025_p1xo3xkji",
+              "title": "Changeip",
+              "href": "https://www.changeip.com/accounts/dnsmanager.php?method=edit&amp;client_id=36036071",
+              "description": "freetcp\\25u\\onmypc\\ygto等二级域名",
+              "icon": "/assets/favicon_1758828766541.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
