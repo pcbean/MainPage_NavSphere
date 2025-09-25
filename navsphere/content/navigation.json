@@ -853,6 +853,15 @@
       "subCategories": []
     },
     {
+      "id": "1758828685477",
+      "title": "域名管理",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758601037660",
       "title": "翻墙工具",
       "icon": "Shield",
@@ -1049,15 +1058,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1758828685477",
-      "title": "域名管理",
-      "icon": "Globe",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
