@@ -480,6 +480,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "0650fe4b-4cd6-4d67-951f-39aa47f71a75",
+          "title": "域名管理",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
