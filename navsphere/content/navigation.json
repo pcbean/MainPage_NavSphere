@@ -495,6 +495,14 @@
               "description": "freetcp\\25u\\onmypc\\ygto等二级域名",
               "icon": "/assets/favicon_1758828766541.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758828919491_jvu8ga7wt",
+              "title": "Dynv6",
+              "href": "https://dynv6.com/zones",
+              "description": "dns.army/v6.rocks",
+              "icon": "/assets/favicon_1758828888118.png",
+              "enabled": true
             }
           ]
         }
