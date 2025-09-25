@@ -854,6 +854,14 @@
               "description": "在线数据库平台",
               "icon": "/assets/favicon_1758826114068.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758831556560_sia9f4aer",
+              "title": "Redis Cloud",
+              "href": "https://cloud.redis.io/#/login",
+              "description": "Fully managed serverless cloud database service.",
+              "icon": "/assets/favicon_1758831540635.ico",
+              "enabled": true
             }
           ]
         }
