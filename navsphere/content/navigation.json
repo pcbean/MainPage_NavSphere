@@ -923,7 +923,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758855545022_mc7u69eom",
+              "title": "MISUB_VIP",
+              "href": "https://subgui.pcbean.nyc.mn/",
+              "description": "",
+              "icon": "https://subgui.pcbean.nyc.mn/data:image/svg+xml,%3csvg xmlns=",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "0f994fc4-564b-4fa5-9b49-e140028e4fe5",
