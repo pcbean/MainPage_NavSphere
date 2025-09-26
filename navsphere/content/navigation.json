@@ -950,6 +950,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1758855167306",
+      "title": "拥抱世界",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
