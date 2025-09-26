@@ -519,6 +519,14 @@
               "description": "AI Domain",
               "icon": "/assets/favicon_1758829032204.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758855360114_nr05fneie",
+              "title": "x10hosting",
+              "href": "https://x10hosting.com/login",
+              "description": "x10.mx",
+              "icon": "/assets/favicon_1758855341740.png",
+              "enabled": true
             }
           ]
         }
