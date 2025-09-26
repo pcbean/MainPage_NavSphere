@@ -418,6 +418,14 @@
               "description": "把长长的域名，变成很短的域名，方便分享",
               "icon": "https://dlink.908203.xyz/icon-192.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758926114272_7hha1k5c0",
+              "title": "解码网站",
+              "href": "https://emn178.github.io/online-tools/base58/decode/",
+              "description": "提供各类编码/解码的网站",
+              "icon": "/1e47e992-6c2e-4b74-9b23-3607786685d4",
+              "enabled": true
             }
           ],
           "enabled": true
