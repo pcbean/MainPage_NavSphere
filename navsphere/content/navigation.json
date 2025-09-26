@@ -948,6 +948,14 @@
               "description": "",
               "icon": "/assets/favicon_1758855598522.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758855660194_zp0dmjkgm",
+              "title": "Free Cloud",
+              "href": "https://bento.me/freecloud",
+              "description": "官网月续",
+              "icon": "/assets/favicon_1758855645282.png",
+              "enabled": true
             }
           ]
         }
