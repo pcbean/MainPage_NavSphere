@@ -205,6 +205,14 @@
               "description": "自建聚合",
               "icon": "/assets/img_1758825478173.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758862641560_r3qwxy2s4",
+              "title": "低端影视",
+              "href": "https://ddys.pro/category/movie/",
+              "description": "",
+              "icon": "/assets/favicon_1758862632204.png",
+              "enabled": true
             }
           ]
         },
