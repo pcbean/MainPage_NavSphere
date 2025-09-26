@@ -924,6 +924,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "0f994fc4-564b-4fa5-9b49-e140028e4fe5",
+          "title": "防失联",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
