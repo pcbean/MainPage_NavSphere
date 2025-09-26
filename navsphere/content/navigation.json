@@ -642,6 +642,14 @@
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758859925731_ou6r3b4iy",
+              "title": "Icons8",
+              "href": "https://icons8.com/icons",
+              "description": "近百万免费图标",
+              "icon": "/assets/favicon_1758859894130.png",
+              "enabled": true
             }
           ]
         },
