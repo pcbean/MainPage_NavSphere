@@ -916,7 +916,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "f8ee0238-1884-452d-829a-0810c8918078",
+          "title": "订阅器",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1758655689052",
