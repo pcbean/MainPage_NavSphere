@@ -345,6 +345,14 @@
               "description": "IP测速",
               "icon": "/assets/favicon_1758825835825.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758918296515_5xskn7igs",
+              "title": "Iplark",
+              "href": "https://iplark.com/",
+              "description": "高精度IP归属地查询工具",
+              "icon": "/assets/favicon_1758918260296.png",
+              "enabled": true
             }
           ]
         },
