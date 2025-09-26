@@ -915,17 +915,43 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [
+      "items": [],
+      "subCategories": [
         {
-          "id": "site_1758855569313_qbvhbv5tp",
-          "title": "MISUB_public",
-          "href": "https://cfsub.pcbean.qzz.io/",
+          "id": "f8ee0238-1884-452d-829a-0810c8918078",
+          "title": "订阅器",
+          "icon": "Folder",
           "description": "",
-          "icon": "https://cfsub.pcbean.qzz.io/data:image/svg+xml,%3csvg xmlns=",
-          "enabled": true
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758855545022_mc7u69eom",
+              "title": "MISUB_VIP",
+              "href": "https://subgui.pcbean.nyc.mn/",
+              "description": "",
+              "icon": "https://subgui.pcbean.nyc.mn/data:image/svg+xml,%3csvg xmlns=",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "0f994fc4-564b-4fa5-9b49-e140028e4fe5",
+          "title": "防失联",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758855610861_29956io31",
+              "title": "防失联",
+              "href": "https://github.com/wzdnzd/aggregator/issues/91",
+              "description": "",
+              "icon": "/assets/favicon_1758855598522.png",
+              "enabled": true
+            }
+          ]
         }
-      ],
-      "subCategories": []
+      ]
     },
     {
       "id": "1758655689052",
