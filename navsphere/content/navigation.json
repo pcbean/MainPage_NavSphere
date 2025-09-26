@@ -964,6 +964,14 @@
               "description": "官网月续",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=gy777.xyz",
               "enabled": true
+            },
+            {
+              "id": "site_1758855734548_hm49iyrjo",
+              "title": "鸡场",
+              "href": "https://web.xn--pss281n.top/#/plan",
+              "description": "TG群月续",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=web.xn--pss281n.top",
+              "enabled": true
             }
           ]
         }
