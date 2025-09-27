@@ -502,6 +502,14 @@
               "description": "",
               "icon": "/assets/img_1758826044115.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758999383104_6zfd3fjo2",
+              "title": "jhb.edu.kg",
+              "href": "https://jhb.edu.kg/login",
+              "description": "EDU 邮箱注册",
+              "icon": "/assets/favicon_1758999363870.png",
+              "enabled": true
             }
           ]
         },
