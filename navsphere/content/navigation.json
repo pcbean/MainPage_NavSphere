@@ -752,10 +752,10 @@
           "items": [
             {
               "id": "site_1758605801712_unh4zs4io",
-              "title": "Color Hunt ",
+              "title": "Color Hunt",
               "href": "https://colorhunt.co/",
-              "description": "",
-              "icon": "/assets/favicon_1758605791948.svg",
+              "description": "在线配色网站",
+              "icon": "/assets/favicon_1758998880549.svg",
               "enabled": true
             }
           ]
