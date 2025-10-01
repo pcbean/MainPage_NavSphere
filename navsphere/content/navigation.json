@@ -508,7 +508,7 @@
               "title": "Zoho Mail",
               "href": "https://mail.zoho.com/zm/",
               "description": "",
-              "icon": "/assets/img_1758826044115.png",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail.zoho.com",
               "enabled": true
             },
             {
