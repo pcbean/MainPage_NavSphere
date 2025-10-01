@@ -82,10 +82,10 @@
             },
             {
               "id": "9_3",
-              "title": "Gemini",
+              "title": "‎Google Gemini",
               "href": "https://gemini.google.com/",
               "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/images/logos/gemini.svg",
+              "icon": "/assets/favicon_1759293942840.svg",
               "enabled": true
             },
             {
