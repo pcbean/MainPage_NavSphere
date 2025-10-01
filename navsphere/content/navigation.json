@@ -90,10 +90,10 @@
             },
             {
               "id": "9_4",
-              "title": "Microsoft Copilot",
+              "title": "Microsoft Copilot: Your AI companion",
               "href": "https://copilot.microsoft.com/",
-              "description": "微软GPT5",
-              "icon": "/assets/img_1758828298134.png",
+              "description": "微软GPT5 一般很一般",
+              "icon": "/assets/favicon_1759293954497.ico",
               "enabled": true
             },
             {
