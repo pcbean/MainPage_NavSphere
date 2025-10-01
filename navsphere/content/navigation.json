@@ -969,10 +969,10 @@
             },
             {
               "id": "site_1758752401926_6w9cd7d70",
-              "title": "Serv00",
+              "title": "Srv00",
               "href": "https://panel1.serv00.com/ssl/www",
-              "description": "Serv00",
-              "icon": "/assets/favicon_1758826068643.png",
+              "description": "",
+              "icon": "/assets/favicon_1759294885436.png",
               "enabled": true
             }
           ]
