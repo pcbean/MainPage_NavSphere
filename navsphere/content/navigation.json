@@ -160,10 +160,10 @@
           "items": [
             {
               "id": "site_1758604871202_9pkhjs50t",
-              "title": "Gimy 劇迷",
+              "title": "Gimy",
               "href": "https://gimy.ai/",
-              "description": "Gimy 劇迷線上看",
-              "icon": "/assets/favicon_1758825286569.png",
+              "description": "",
+              "icon": "/assets/favicon_1759294041895.png",
               "enabled": true
             },
             {
