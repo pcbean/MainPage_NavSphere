@@ -98,10 +98,10 @@
             },
             {
               "id": "1739871926277",
-              "title": "perplexity",
+              "title": "Perplexity",
               "href": "https://www.perplexity.ai/",
-              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-              "icon": "/assets/img_1739871936809.png",
+              "description": "AI搜索引擎",
+              "icon": "/assets/favicon_1759293987319.png",
               "enabled": true
             },
             {
