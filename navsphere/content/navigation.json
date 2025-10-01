@@ -673,6 +673,14 @@
               "description": "",
               "icon": "/assets/favicon_1759294767964.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759309108723_yiou3ykv4",
+              "title": "免费临时电话号码",
+              "href": "https://online-sim.pro/zh",
+              "description": "比较冷门",
+              "icon": "/assets/favicon_1759309091284.png",
+              "enabled": true
             }
           ]
         }
