@@ -608,14 +608,6 @@
               "description": "is-an.ai",
               "icon": "/assets/favicon_1759328444189.svg",
               "enabled": true
-            },
-            {
-              "id": "site_1758855360114_nr05fneie",
-              "title": "x10hosting",
-              "href": "https://x10hosting.com/login",
-              "description": "x10.mx",
-              "icon": "/assets/img_1758856499020.png",
-              "enabled": true
             }
           ]
         },
