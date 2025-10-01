@@ -316,10 +316,10 @@
           "items": [
             {
               "id": "site_1758605196309_67qk0u7fy",
-              "title": "IP国内外地址查询",
+              "title": "IP分流查询",
               "href": "https://ip.skk.moe/",
               "description": "",
-              "icon": "/assets/favicon_1758825794466.png",
+              "icon": "/assets/favicon_1759294231454.png",
               "enabled": true
             },
             {
