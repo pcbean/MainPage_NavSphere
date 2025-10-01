@@ -11,8 +11,8 @@
           "id": "site_1758637930234_3mtn70dmq",
           "title": "Google",
           "href": "https://www.google.com/",
-          "description": "",
-          "icon": "/assets/favicon_1759293725010.png",
+          "description": "Google NO.1",
+          "icon": "/assets/favicon_1758824957991.png",
           "enabled": true
         },
         {
@@ -20,15 +20,15 @@
           "title": "DuckDuckGo",
           "href": "https://duckduckgo.com/",
           "description": "一家让你能够无缝掌控在线个人信息的互联网隐私公司，而无需做出任何取舍。",
-          "icon": "/assets/favicon_1759293735567.ico",
+          "icon": "/assets/favicon_1758825058620.ico",
           "enabled": true
         },
         {
           "id": "site_1758655832726_5453lj6q6",
           "title": "必应",
           "href": "https://www.bing.com/",
-          "description": "使用 Microsoft 必应进行搜索",
-          "icon": "/assets/favicon_1759293743089.png",
+          "description": "必应进行搜索",
+          "icon": "/assets/favicon_1758825103467.png",
           "enabled": true
         },
         {
@@ -36,7 +36,7 @@
           "title": "YouTube",
           "href": "https://www.youtube.com/",
           "description": "世界最大视频平台",
-          "icon": "/assets/img_1758825240294.png",
+          "icon": "/assets/favicon_1759294605341.png",
           "enabled": true
         }
       ],
@@ -51,8 +51,8 @@
           "id": "site_1758605424718_vm403dgjv",
           "title": "Grok",
           "href": "https://grok.com/",
-          "description": "Grok is a free AI ",
-          "icon": "/assets/favicon_1759293898440.png",
+          "description": "马斯克的AI",
+          "icon": "/assets/favicon_1758605413014.png",
           "enabled": true
         }
       ],
@@ -69,7 +69,7 @@
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
               "description": "OpenAI开发的人工智能聊天机器人程序。",
-              "icon": "/assets/favicon_1759293911485.png",
+              "icon": "/assets/images/logos/chatgpt.png",
               "enabled": true
             },
             {
@@ -77,31 +77,31 @@
               "title": "Claude",
               "href": "https://claude.ai/",
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
-              "icon": "/assets/favicon_1759293931696.png",
+              "icon": "/assets/images/logos/claude.png",
               "enabled": true
             },
             {
               "id": "9_3",
-              "title": "‎Google Gemini",
+              "title": "Gemini",
               "href": "https://gemini.google.com/",
               "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/favicon_1759293942840.svg",
+              "icon": "/assets/images/logos/gemini.svg",
               "enabled": true
             },
             {
               "id": "9_4",
               "title": "Microsoft Copilot",
               "href": "https://copilot.microsoft.com/",
-              "description": "微软GPT5 一般很一般",
-              "icon": "/assets/img_1759294161064.png",
+              "description": "微软GPT5",
+              "icon": "/assets/img_1758828298134.png",
               "enabled": true
             },
             {
               "id": "1739871926277",
-              "title": "Perplexity",
+              "title": "perplexity",
               "href": "https://www.perplexity.ai/",
-              "description": "AI搜索引擎",
-              "icon": "/assets/favicon_1759293987319.png",
+              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
+              "icon": "/assets/img_1739871936809.png",
               "enabled": true
             },
             {
@@ -109,7 +109,7 @@
               "title": "LMArena",
               "href": "https://lmarena.ai/",
               "description": "AI合集",
-              "icon": "/assets/img_1759293999099.png",
+              "icon": "/assets/img_1758828460332.png",
               "enabled": true
             }
           ]
@@ -123,10 +123,10 @@
           "items": [
             {
               "id": "1736911347619",
-              "title": "Gamma",
+              "title": "gamma",
               "href": "https://gamma.app/",
-              "description": "AI生成PPT",
-              "icon": "/assets/favicon_1759294029233.ico",
+              "description": "AI生成PPT工具",
+              "icon": "/assets/img_1736911490095.png",
               "enabled": true
             }
           ]
@@ -160,10 +160,10 @@
           "items": [
             {
               "id": "site_1758604871202_9pkhjs50t",
-              "title": "Gimy",
+              "title": "Gimy 劇迷",
               "href": "https://gimy.ai/",
-              "description": "",
-              "icon": "/assets/favicon_1759294041895.png",
+              "description": "Gimy 劇迷線上看",
+              "icon": "/assets/favicon_1758825286569.png",
               "enabled": true
             },
             {
@@ -179,7 +179,7 @@
               "title": "Moon-备站",
               "href": "https://beetv.netlify.app/",
               "description": "自建聚合",
-              "icon": "/assets/img_1759294071555.png",
+              "icon": "/assets/img_1758825410006.png",
               "enabled": true
             },
             {
@@ -187,7 +187,7 @@
               "title": "Moon-备站",
               "href": "https://moonriver.pcbean.nyc.mn/",
               "description": "自建聚合",
-              "icon": "/assets/img_1759294083427.png",
+              "icon": "/assets/img_1758825410006.png",
               "enabled": true
             },
             {
@@ -195,7 +195,7 @@
               "title": "月饼-主站",
               "href": "https://beetv.908203.xyz/ ",
               "description": "密码123",
-              "icon": "/assets/img_1759294094003.png",
+              "icon": "/assets/img_1758825478173.png",
               "enabled": true
             },
             {
@@ -211,7 +211,7 @@
               "title": "低端影视",
               "href": "https://ddys.pro/category/movie/",
               "description": "",
-              "icon": "/assets/favicon_1759294109905.png",
+              "icon": "/assets/favicon_1758862632204.png",
               "enabled": true
             }
           ]
@@ -244,7 +244,7 @@
               "title": "日剧跑",
               "href": "https://www.rijupao.com/",
               "description": "",
-              "icon": "/assets/favicon_1759294192988.png",
+              "icon": "/assets/favicon_1758825630347.png",
               "enabled": true
             },
             {
@@ -316,26 +316,26 @@
           "items": [
             {
               "id": "site_1758605196309_67qk0u7fy",
-              "title": "IP分流查询",
+              "title": "IP国内外地址查询",
               "href": "https://ip.skk.moe/",
               "description": "",
-              "icon": "/assets/favicon_1759294231454.png",
+              "icon": "/assets/favicon_1758825794466.png",
               "enabled": true
             },
             {
               "id": "site_1758605209112_bpxls7b9h",
               "title": "IPCheck",
               "href": "https://ipcheck.ing/?hl=zh#/",
-              "description": "",
-              "icon": "/assets/favicon_1759294252681.svg",
+              "description": "多个不同的来源（包含 IPv4 和 IPv6）检查你的 IP 地址",
+              "icon": "/assets/img_1758858772750.png",
               "enabled": true
             },
             {
               "id": "site_1758605242783_khuoixxtb",
               "title": "IP Location",
               "href": "https://iplocation.com/",
-              "description": "",
-              "icon": "/assets/favicon_1759294276295.png",
+              "description": "IP Location",
+              "icon": "/assets/favicon_1758825816552.png",
               "enabled": true
             },
             {
@@ -343,7 +343,7 @@
               "title": "Speedtest",
               "href": "https://www.speedtest.net/",
               "description": "IP测速",
-              "icon": "/assets/favicon_1759294290201.ico",
+              "icon": "/assets/favicon_1758825835825.png",
               "enabled": true
             },
             {
@@ -540,7 +540,7 @@
               "title": "Skymail",
               "href": "https://skymail.ink/inbox",
               "description": "skymail",
-              "icon": "/assets/img_1759294333772.png",
+              "icon": "/assets/favicon_1759195979498.png",
               "enabled": true
             }
           ]
