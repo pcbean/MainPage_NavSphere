@@ -489,10 +489,10 @@
           "items": [
             {
               "id": "site_1758607628315_s5uv0b35t",
-              "title": "Proton Mail",
+              "title": "Proton",
               "href": "https://account.proton.me/login",
               "description": "",
-              "icon": "/assets/favicon_1758856670662.ico",
+              "icon": "/assets/favicon_1759328494816.ico",
               "enabled": true
             },
             {
