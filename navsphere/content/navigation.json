@@ -1019,10 +1019,10 @@
             },
             {
               "id": "site_1758831556560_sia9f4aer",
-              "title": "Redis Cloud",
+              "title": "Redis",
               "href": "https://cloud.redis.io/#/login",
               "description": "Fully managed serverless cloud database service.",
-              "icon": "/assets/favicon_1758831540635.ico",
+              "icon": "/assets/favicon_1759294943165.ico",
               "enabled": true
             }
           ]
