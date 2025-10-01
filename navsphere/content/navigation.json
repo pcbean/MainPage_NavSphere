@@ -562,10 +562,10 @@
             },
             {
               "id": "site_1759007912093_80hi44re6",
-              "title": "Best",
+              "title": "TempMail.Best",
               "href": "https://tempmail.best/zh-cn",
-              "description": "面条搭建的临时邮箱",
-              "icon": "/assets/favicon_1759007887498.png",
+              "description": "有效期1小时",
+              "icon": "/assets/favicon_1759328866604.ico",
               "enabled": true
             }
           ]
