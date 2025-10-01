@@ -1,92 +1,61 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "id": "1758637894005",
+      "title": "常用站点",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
       "items": [
         {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
+          "id": "site_1758637930234_3mtn70dmq",
+          "title": "Google",
+          "href": "https://www.google.com/",
+          "description": "Google NO.1",
+          "icon": "/assets/favicon_1758824957991.png",
           "enabled": true
         },
         {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-          "icon": "/assets/images/logos/analytics.ico",
+          "id": "site_1758637999669_a4q8i94nn",
+          "title": "DuckDuckGo",
+          "href": "https://duckduckgo.com/",
+          "description": "一家让你能够无缝掌控在线个人信息的互联网隐私公司，而无需做出任何取舍。",
+          "icon": "/assets/favicon_1758825058620.ico",
           "enabled": true
         },
         {
-          "id": "1_3",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.ico",
+          "id": "site_1758655832726_5453lj6q6",
+          "title": "必应",
+          "href": "https://www.bing.com/",
+          "description": "必应进行搜索",
+          "icon": "/assets/favicon_1758825103467.png",
           "enabled": true
         },
         {
-          "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
-          "enabled": true
-        },
-        {
-          "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.png",
-          "enabled": true
-        },
-        {
-          "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.ico",
-          "enabled": true
-        },
-        {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
-          "enabled": true
-        },
-        {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
+          "id": "site_1758654989654_flwpccpxm",
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "世界最大视频平台",
+          "icon": "/assets/img_1758825240294.png",
           "enabled": true
         }
       ],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
+      "subCategories": []
     },
     {
       "id": "9",
-      "title": "AI工具包",
+      "title": "AI汇总",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758605424718_vm403dgjv",
+          "title": "Grok",
+          "href": "https://grok.com/",
+          "description": "马斯克的AI",
+          "icon": "/assets/favicon_1758605413014.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
@@ -121,10 +90,10 @@
             },
             {
               "id": "9_4",
-              "title": "Poe",
-              "href": "https://poe.com/",
-              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-              "icon": "/assets/images/logos/poe.svg",
+              "title": "Microsoft Copilot",
+              "href": "https://copilot.microsoft.com/",
+              "description": "微软GPT5",
+              "icon": "/assets/img_1758828298134.png",
               "enabled": true
             },
             {
@@ -133,6 +102,14 @@
               "href": "https://www.perplexity.ai/",
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758601598497_5fc15beom",
+              "title": "LMArena",
+              "href": "https://lmarena.ai/",
+              "description": "AI合集",
+              "icon": "/assets/img_1758828460332.png",
               "enabled": true
             }
           ]
@@ -144,14 +121,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1736418296509",
-              "title": "Napkin",
-              "href": "https://www.napkin.ai/",
-              "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
-              "icon": "/assets/img_1736418335098.png",
-              "enabled": true
-            },
             {
               "id": "1736911347619",
               "title": "gamma",
@@ -168,190 +137,122 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ],
       "description": "",
       "enabled": true
     },
     {
-      "id": "1735265493940",
-      "title": "开发者工具包",
-      "icon": "Box",
-      "description": "开发者工具，工具包",
+      "id": "1758600597966",
+      "title": "影视资源",
+      "icon": "Video",
+      "description": "",
       "enabled": true,
       "items": [],
       "subCategories": [
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
-          "icon": "Files",
+          "id": "dccdf844-b059-4da8-9b5b-d12f059d9a2d",
+          "title": "在线聚合",
+          "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1735265532154",
-              "title": "shadcn ",
-              "href": "https://ui.shadcn.com/",
-              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
-              "icon": "/assets/img_1735265752690.png",
+              "id": "site_1758604871202_9pkhjs50t",
+              "title": "Gimy 劇迷",
+              "href": "https://gimy.ai/",
+              "description": "Gimy 劇迷線上看",
+              "icon": "/assets/favicon_1758825286569.png",
               "enabled": true
             },
             {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
+              "id": "site_1758757851735_5awumjts6",
+              "title": "Moon-主站",
+              "href": "https://beantv.908203.xyz/",
+              "description": "自建聚合",
+              "icon": "/assets/img_1758825410006.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758757895120_2ut0ubskz",
+              "title": "Moon-备站",
+              "href": "https://beetv.netlify.app/",
+              "description": "自建聚合",
+              "icon": "/assets/img_1758825410006.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758757993187_svq6so9jz",
+              "title": "Moon-备站",
+              "href": "https://moonriver.pcbean.nyc.mn/",
+              "description": "自建聚合",
+              "icon": "/assets/img_1758825410006.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758758044885_y2v5kt1ok",
+              "title": "月饼-主站",
+              "href": "https://beetv.908203.xyz/ ",
+              "description": "密码123",
+              "icon": "/assets/img_1758825478173.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758768386285_rqm4h3kqm",
+              "title": "月饼-备站",
+              "href": "https://beecake.netlify.app/",
+              "description": "自建聚合",
+              "icon": "/assets/img_1758825478173.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758862641560_r3qwxy2s4",
+              "title": "低端影视",
+              "href": "https://ddys.pro/category/movie/",
+              "description": "",
+              "icon": "/assets/favicon_1758862632204.png",
               "enabled": true
             }
           ]
         },
         {
-          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
-          "title": "托管平台",
-          "icon": "Book",
+          "id": "3e460245-5421-4f38-a997-08d4e258355a",
+          "title": "影片下载",
+          "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "1735612561958",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-              "icon": "/assets/images/logos/cloudflar.ico",
+              "id": "site_1758656859746_9ut97ym71",
+              "title": "美剧天堂",
+              "href": "https://www.imeijutt.tv/",
+              "description": "",
+              "icon": "/assets/img_1758825592592.png",
               "enabled": true
             },
             {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
+              "id": "site_1758657001947_6dcmm7r52",
+              "title": "美剧迷",
+              "href": "https://www.meijumi.net/",
+              "description": "专业的美剧下载网站",
+              "icon": "/assets/favicon_1758825604778.ico",
               "enabled": true
             },
             {
-              "id": "1735612629450",
-              "title": "netlify",
-              "href": "https://www.netlify.com/",
-              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
-              "icon": "/assets/img_1735612745862.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
-          "title": "画图工具",
-          "icon": "Book",
-          "description": "架构图，流程图",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736921962115",
-              "title": "draw.io",
-              "href": "https://www.drawio.com/",
-              "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
-              "icon": "/assets/img_1736922080517.png",
+              "id": "site_1758657030174_jh1138651",
+              "title": "日剧跑",
+              "href": "https://www.rijupao.com/",
+              "description": "",
+              "icon": "/assets/favicon_1758825630347.png",
               "enabled": true
             },
             {
-              "id": "1736922183993",
-              "title": "ProccessOn",
-              "href": "https://www.processon.com/",
-              "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
-              "icon": "/assets/img_1736922262462.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922380901",
-              "title": "Excalidraw",
-              "href": "https://excalidraw.com/",
-              "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
-              "icon": "/assets/img_1736922499401.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
-          "title": "AI编程工具",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-              "icon": "/assets/img_1737529713172.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529752867",
-              "title": "Windsurf",
-              "href": "https://codeium.com/",
-              "description": "Introducing the Windsurf Editor\nThe new purpose-built IDE to harness magic",
-              "icon": "/assets/img_1737529843741.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529887245",
-              "title": "GitHub Copilot",
-              "href": "https://github.com/features/copilot",
-              "description": "The AI editor for everyone",
-              "icon": "/assets/img_1737530043708.png",
-              "enabled": true
-            },
-            {
-              "id": "1737530051856",
-              "title": "Trae",
-              "href": "https://www.trae.ai/",
-              "description": "字节新出的 Cursor 竞品 Trae ，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
-              "icon": "/assets/img_1737530421138.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662613676",
-              "title": "Kiro",
-              "href": "https://kiro.dev/",
-              "description": "The AI IDE for prototype to production\n",
-              "icon": "/assets/img_1752662633580.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662747639",
-              "title": "Claude code",
-              "href": "https://www.anthropic.com/claude-code",
-              "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
-              "icon": "/assets/img_1752662771107.png",
+              "id": "site_1758657111201_im5f7epha",
+              "title": "迷客电影",
+              "href": "https://www.mini4k.com/",
+              "description": "",
+              "icon": "/assets/favicon_1758825646823.png",
               "enabled": true
             }
           ]
@@ -359,97 +260,46 @@
       ]
     },
     {
-      "id": "1735433560958",
-      "title": "自媒体工具包",
-      "icon": "Video",
-      "description": "自媒体工具包",
+      "id": "1758607435218",
+      "title": "直播平台",
+      "icon": "MessageSquare",
+      "description": "",
       "enabled": true,
-      "items": [],
-      "subCategories": [
+      "items": [
         {
-          "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
-          "title": "国内平台",
-          "icon": "FileText",
+          "id": "site_1758607481664_vnd7zq3aa",
+          "title": "Twitch",
+          "href": "https://www.twitch.tv/",
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912858570",
-              "title": "视频号助手",
-              "href": "https://channels.weixin.qq.com",
-              "description": "视频号助手，视频号创作站点",
-              "icon": "/assets/img_1736912962033.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912680039",
-              "title": "小红书创作中心",
-              "href": "https://creator.xiaohongshu.com/",
-              "description": "小红书创作中心",
-              "icon": "/assets/img_1736912766835.png",
-              "enabled": true
-            }
-          ]
+          "icon": "/assets/favicon_1758825669440.png",
+          "enabled": true
         },
         {
-          "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
-          "title": "公众号排版",
-          "icon": "Edit",
+          "id": "site_1758607495361_1xjgcutaz",
+          "title": "Kick",
+          "href": "https://kick.com/",
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735456910129",
-              "title": "WeChat Markdown Editor",
-              "href": "https://doocs.github.io/md/",
-              "description": "WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
-              "icon": "/assets/img_1735433660193.png",
-              "enabled": true
-            },
-            {
-              "id": "1737961258110",
-              "title": "mdnice",
-              "href": "https://editor.mdnice.com/",
-              "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
-              "icon": "/assets/img_1737961266055.png",
-              "enabled": true
-            }
-          ]
+          "icon": "/assets/favicon_1758825684600.ico",
+          "enabled": true
         },
         {
-          "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
-          "title": "录屏工具",
-          "icon": "Folder",
+          "id": "site_1758607514296_skler95gq",
+          "title": "Tiktok",
+          "href": "https://www.tiktok.com/",
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
-              "enabled": true
-            },
-            {
-              "id": "1753396049185",
-              "title": "Cursorful",
-              "href": "https://cursorful.com/",
-              "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
-              "icon": "/assets/img_1753396105178.png",
-              "enabled": true
-            }
-          ]
+          "icon": "/assets/favicon_1758825762384.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1758755794848_yviyiactj",
+          "title": "sooplive",
+          "href": "https://www.sooplive.co.kr/",
+          "description": "棒子国直播平台",
+          "icon": "/assets/favicon_1758825778226.png",
+          "enabled": true
         }
-      ]
+      ],
+      "subCategories": []
     },
     {
       "id": "2",
@@ -457,6 +307,55 @@
       "icon": "Laptop",
       "items": [],
       "subCategories": [
+        {
+          "id": "33c158ac-b250-4b5e-944a-d8e2a02ad2ac",
+          "title": "IP测试",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758605196309_67qk0u7fy",
+              "title": "IP国内外地址查询",
+              "href": "https://ip.skk.moe/",
+              "description": "",
+              "icon": "/assets/favicon_1758825794466.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758605209112_bpxls7b9h",
+              "title": "IPCheck",
+              "href": "https://ipcheck.ing/?hl=zh#/",
+              "description": "多个不同的来源（包含 IPv4 和 IPv6）检查你的 IP 地址",
+              "icon": "/assets/img_1758858772750.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758605242783_khuoixxtb",
+              "title": "IP Location",
+              "href": "https://iplocation.com/",
+              "description": "IP Location",
+              "icon": "/assets/favicon_1758825816552.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758605353185_d8viu7zrc",
+              "title": "Speedtest",
+              "href": "https://www.speedtest.net/",
+              "description": "IP测速",
+              "icon": "/assets/favicon_1758825835825.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758918296515_5xskn7igs",
+              "title": "Iplark",
+              "href": "https://iplark.com/",
+              "description": "高精度IP归属地查询工具",
+              "icon": "/assets/favicon_1758918260296.png",
+              "enabled": true
+            }
+          ]
+        },
         {
           "id": "3",
           "title": "在线工具",
@@ -474,10 +373,10 @@
             },
             {
               "id": "3_2",
-              "title": "JSON Editor Online",
+              "title": "Editor OnlineSON",
               "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.png",
+              "description": "在各类语言编辑器",
+              "icon": "/assets/favicon_1759159525659.png",
               "enabled": true
             },
             {
@@ -511,57 +410,29 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "4",
-          "title": "图形创意",
-          "href": "#图形创意",
-          "icon": "Folder",
-          "description": "",
-          "items": [
+            },
             {
-              "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.png",
+              "id": "site_1758643546700_ehydpev8a",
+              "title": "Sink",
+              "href": "https://dlink.908203.xyz/",
+              "description": "把长长的域名，变成很短的域名，方便分享",
+              "icon": "https://dlink.908203.xyz/icon-192.png",
               "enabled": true
             },
             {
-              "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
-              "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.png",
+              "id": "site_1758926114272_7hha1k5c0",
+              "title": "解码网站",
+              "href": "https://emn178.github.io/online-tools/base58/decode/",
+              "description": "提供各类编码/解码的网站",
+              "icon": "/assets/img_1758926729912.png",
               "enabled": true
             },
             {
-              "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "5",
-          "title": "界面设计",
-          "href": "#界面设计",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.png",
+              "id": "site_1759061954754_jipi0aooi",
+              "title": "JavaScript混肴",
+              "href": "https://obfuscator.io/",
+              "description": "JavaScript Obfuscator",
+              "icon": "/assets/img_1759061948479.png",
               "enabled": true
             }
           ],
@@ -610,22 +481,200 @@
           "enabled": true
         },
         {
-          "id": "7",
-          "title": "在线配色",
-          "href": "#在线配色",
-          "icon": "Book",
+          "id": "137d1650-8b1f-4d00-a370-4e28bbc6c72f",
+          "title": "固定邮箱",
+          "icon": "Folder",
           "description": "",
+          "enabled": true,
           "items": [
             {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.png",
+              "id": "site_1758607628315_s5uv0b35t",
+              "title": "Proton Mail",
+              "href": "https://account.proton.me/login",
+              "description": "",
+              "icon": "/assets/favicon_1758856670662.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1758607690994_q5jnqpoek",
+              "title": "花瓣邮箱",
+              "href": "https://www.petalmail.com/",
+              "description": "",
+              "icon": "/assets/img_1758825962254.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758664172848_7u13vxk85",
+              "title": "Zoho Mail",
+              "href": "https://mail.zoho.com/zm/",
+              "description": "",
+              "icon": "/assets/img_1758826044115.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758999383104_6zfd3fjo2",
+              "title": "EDU邮箱",
+              "href": "https://jhb.edu.kg/login",
+              "description": "EDU 邮箱注册",
+              "icon": "/assets/favicon_1758999363870.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759157044229_n0un6dkm7",
+              "title": "Tuta",
+              "href": "https://tuta.com/",
+              "description": "tuta.com",
+              "icon": "/assets/img_1759158172016.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759157076090_8s1pbpbsa",
+              "title": "Mail.ee",
+              "href": "https://www.mail.ee/",
+              "description": "",
+              "icon": "/assets/img_1759158244205.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759195990059_amudo2cm6",
+              "title": "Skymail",
+              "href": "https://skymail.ink/inbox",
+              "description": "skymail",
+              "icon": "/assets/favicon_1759195979498.png",
               "enabled": true
             }
-          ],
-          "enabled": true
+          ]
+        },
+        {
+          "id": "983a0eaa-5fba-43d6-a784-168a784d0df7",
+          "title": "临时邮箱",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1759015852836_og2n8hgz9",
+              "title": "BeanMAIL",
+              "href": "https://mail.908203.xyz/",
+              "description": "BeanMAIL-24小时匿名邮箱",
+              "icon": "/assets/img_1759015833153.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759007912093_80hi44re6",
+              "title": "Best",
+              "href": "https://tempmail.best/zh-cn",
+              "description": "面条搭建的临时邮箱",
+              "icon": "/assets/favicon_1759007887498.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "0650fe4b-4cd6-4d67-951f-39aa47f71a75",
+          "title": "域名管理",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758828836025_p1xo3xkji",
+              "title": "Changeip",
+              "href": "https://www.changeip.com/accounts/dnsmanager.php?method=edit&amp;client_id=36036071",
+              "description": "freetcp\\25u\\onmypc\\ygto等二级域名",
+              "icon": "/assets/favicon_1758828766541.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758828919491_jvu8ga7wt",
+              "title": "Dynv6",
+              "href": "https://dynv6.com/zones",
+              "description": "dns.army/v6.rocks",
+              "icon": "/assets/favicon_1758828888118.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758828972270_7loc67apg",
+              "title": "DnsHE",
+              "href": "https://my.dnshe.com/index.php?m=cloudflare_subdomain",
+              "description": "ccwu.cc/de5.net",
+              "icon": "/assets/favicon_1758828944854.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758829048911_p9534hkta",
+              "title": "is-an.ai",
+              "href": "https://is-an.ai/",
+              "description": "AI Domain",
+              "icon": "/assets/favicon_1758829032204.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758855360114_nr05fneie",
+              "title": "x10hosting",
+              "href": "https://x10hosting.com/login",
+              "description": "x10.mx",
+              "icon": "/assets/img_1758856499020.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "24e382a2-1d5c-425d-add1-d099170e4f06",
+          "title": "接码平台",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1759157530870_q1mepu97d",
+              "title": "Receive SMS online free,Free temporary phone number,Receive sms free - Receive-Sms-Free.Cc",
+              "href": "https://receive-sms-free.cc/",
+              "description": "Receive SMS online",
+              "icon": "/assets/favicon_1759157521585.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759157572109_1ybe5yq79",
+              "title": "Receive SMS Online",
+              "href": "https://receive-sms.cc/",
+              "description": "free online SMS receive ",
+              "icon": "/assets/favicon_1759157562185.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759157613811_bj73aa2t6",
+              "title": "Temporary phone",
+              "href": "https://temporary-phone-number.com/",
+              "description": "Temporary-Phone-Number",
+              "icon": "/assets/favicon_1759157595740.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759157806467_oh9urscxj",
+              "title": "Temp-number",
+              "href": "https://temp-number.com/",
+              "description": "访问 temp-number.com",
+              "icon": "/assets/favicon_1759157799538.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759158031112_079mor700",
+              "title": "SMSToMe",
+              "href": "https://smstome.com/",
+              "description": "Receive SMS online ",
+              "icon": "/assets/favicon_1759158015692.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759029211893_qyii0cm68",
+              "title": "Simcodes",
+              "href": "https://simcodes.net/",
+              "description": "接码平台",
+              "icon": "/assets/favicon_1759029199513.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
@@ -633,7 +682,7 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
+      "title": "设计资源",
       "icon": "linecons-thumbs-up",
       "items": [],
       "subCategories": [
@@ -739,6 +788,14 @@
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758859925731_ou6r3b4iy",
+              "title": "Icons8",
+              "href": "https://icons8.com/icons",
+              "description": "近百万免费图标",
+              "icon": "/assets/favicon_1758859894130.png",
+              "enabled": true
             }
           ]
         },
@@ -807,8 +864,338 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "1960fc13-238d-4bde-845a-5520b15884ad",
+          "title": "在线配色",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758605801712_unh4zs4io",
+              "title": "Color Hunt",
+              "href": "https://colorhunt.co/",
+              "description": "在线配色网站",
+              "icon": "/assets/favicon_1758998880549.svg",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "cb59e978-c4f1-4232-92cf-296d51640e1d",
+          "title": "图形创意",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "4_1",
+              "title": "photoshop",
+              "href": "https://www.adobe.com/cn/products/photoshop.html",
+              "description": "Photoshop不需要解释",
+              "icon": "/assets/images/logos/photoshop.png",
+              "enabled": true
+            },
+            {
+              "id": "4_2",
+              "title": "Affinity Designer",
+              "href": "https://affinity.serif.com/",
+              "description": "专业创意软件",
+              "icon": "/assets/images/logos/AffinityDesigner.png",
+              "enabled": true
+            },
+            {
+              "id": "4_3",
+              "title": "Illustrator",
+              "href": "https://www.adobe.com/cn/products/illustrator/",
+              "description": "矢量图形和插图。",
+              "icon": "/assets/images/logos/Illustrator.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "3797e482-2920-4bc9-9257-888e91354219",
+          "title": "界面设计",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_1",
+              "title": "Figma",
+              "href": "https://www.figma.com/",
+              "description": "在线UI设计工具",
+              "icon": "/assets/images/logos/figma.png",
+              "enabled": true
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "1758747466694",
+      "title": "部署平台",
+      "icon": "Edit",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "c9bd12f7-78f6-4965-9713-4c0945a44e19",
+          "title": "Docker|VPS",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758657477193_ixf5yxuy8",
+              "title": "ClawCloud",
+              "href": "https://us-west-1.run.claw.cloud/",
+              "description": "ClawCloud Dokcer",
+              "icon": "/assets/img_1758856748427.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758752334975_ebhse0x75",
+              "title": "Freecloud",
+              "href": "https://panel.freecloud.ltd/clientarea.php",
+              "description": "访问 panel.freecloud.ltd",
+              "icon": "/assets/img_1758752316884.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758752401926_6w9cd7d70",
+              "title": "Serv00",
+              "href": "https://panel1.serv00.com/ssl/www",
+              "description": "Serv00",
+              "icon": "/assets/favicon_1758826068643.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "172a9ee1-359a-41f0-913a-35bbfd0d197a",
+          "title": "部署平台",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758747497784_i9mqe4l79",
+              "title": "Netlify",
+              "href": "https://app.netlify.com/",
+              "description": "",
+              "icon": "/assets/favicon_1758826081361.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1758747526935_8delyszve",
+              "title": "Vercel",
+              "href": "https://vercel.com/",
+              "description": "Vercel",
+              "icon": "/assets/favicon_1758826098086.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "a6564c88-6f3a-47e5-8542-0759ad4e9bd8",
+          "title": "在线DB",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758747659121_42v6u9o8m",
+              "title": "Upstash",
+              "href": "https://upstash.com/",
+              "description": "在线数据库平台",
+              "icon": "/assets/favicon_1758826114068.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758831556560_sia9f4aer",
+              "title": "Redis Cloud",
+              "href": "https://cloud.redis.io/#/login",
+              "description": "Fully managed serverless cloud database service.",
+              "icon": "/assets/favicon_1758831540635.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
+    },
+    {
+      "id": "1758607794971",
+      "title": "游戏破解",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1758607814406_usai4ufio",
+          "title": "资源避难所",
+          "href": "https://www.flysheep6.com/",
+          "description": "资源避难所",
+          "icon": "/assets/favicon_1758826136879.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1758607831306_bc0xyjc95",
+          "title": "Switch520",
+          "href": "https://www.gamer520.com/",
+          "description": "switch游戏下载-PC游戏下载",
+          "icon": "/assets/favicon_1758826148973.jpg",
+          "enabled": true
+        },
+        {
+          "id": "site_1758607862950_3szlr5ool",
+          "title": "土豆资源库",
+          "href": "https://www.tdtd.chat/index",
+          "description": "免费游戏下载",
+          "icon": "/assets/favicon_1758826174278.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1758855167306",
+      "title": "拥抱世界",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "f8ee0238-1884-452d-829a-0810c8918078",
+          "title": "订阅器",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758855545022_mc7u69eom",
+              "title": "MISUB_VIP",
+              "href": "https://subgui.pcbean.nyc.mn/",
+              "description": "",
+              "icon": "/assets/img_1759016102568.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "0f994fc4-564b-4fa5-9b49-e140028e4fe5",
+          "title": "防失联",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1758855610861_29956io31",
+              "title": "防失联",
+              "href": "https://github.com/wzdnzd/aggregator/issues/91",
+              "description": "",
+              "icon": "/assets/favicon_1758855598522.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758855660194_zp0dmjkgm",
+              "title": "Free Cloud",
+              "href": "https://bento.me/freecloud",
+              "description": "官网月续",
+              "icon": "/assets/favicon_1758855645282.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758855686272_l4uxv6w57",
+              "title": "公益网络.com",
+              "href": "https://gy777.xyz/#/dashboard",
+              "description": "官网月续",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gy777.xyz",
+              "enabled": true
+            },
+            {
+              "id": "site_1758855734548_hm49iyrjo",
+              "title": "鸡场",
+              "href": "https://web.xn--pss281n.top/#/plan",
+              "description": "TG群月续",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=web.xn--pss281n.top",
+              "enabled": true
+            },
+            {
+              "id": "site_1758855771578_94mwb6ycd",
+              "title": "便宜机场",
+              "href": "https://xn--wtq35pfyd55o.co/#/dashboard",
+              "description": "TG月续",
+              "icon": "/assets/favicon_1758855757532.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758855822486_7yj9u9v2y",
+              "title": "游乐场",
+              "href": "https://ylccloud.top/#/dashboard",
+              "description": "TG月续",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ylccloud.top",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1758655689052",
+      "title": "学习网站",
+      "icon": "Heart",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1758633474162_x5c84rpho",
+          "title": "亚洲科技站",
+          "href": "https://madou.club/",
+          "description": "亚洲知名科技工作室汇聚",
+          "icon": "/assets/img_1758826403923.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1758633671997_si5qvq8sw",
+          "title": "奈飞日本站",
+          "href": "https://www.netflav.com/",
+          "description": "",
+          "icon": "/assets/favicon_1758826415958.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1758633924741_22tzkvtck",
+          "title": "Jable ",
+          "href": "https://jable.tv/",
+          "description": "日语在线学习网",
+          "icon": "/assets/img_1758826491640.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1758633172923_t95k13xvz",
+          "title": "P站听力",
+          "href": "https://cn.pornhub.com/",
+          "description": "英语听力练习",
+          "icon": "/assets/img_1758826508787.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1758633833546_bw12jzcnu",
+          "title": "HM",
+          "href": "https://hanime1.me/",
+          "description": "动画制作大师",
+          "icon": "/assets/img_1758826526628.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     }
   ]
 }
