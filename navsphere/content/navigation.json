@@ -76,22 +76,6 @@
           "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
           "icon": "/assets/img_1741747241014.png",
           "enabled": true
-        },
-        {
-          "id": "item-1754218579319",
-          "enabled": true,
-          "title": "DeepSeek - 探索未至之境",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1754218571142.svg"
-        },
-        {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -149,14 +133,6 @@
               "href": "https://www.perplexity.ai/",
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            },
-            {
-              "id": "1759046285125",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.png",
               "enabled": true
             }
           ]
@@ -287,14 +263,6 @@
               "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
               "icon": "/assets/img_1735612745862.png",
               "enabled": true
-            },
-            {
-              "id": "1755225929754",
-              "title": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
-              "href": "https://edgeone.ai/zh",
-              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
-              "icon": "/assets/favicon_1755225933031.ico",
-              "enabled": true
             }
           ]
         },
@@ -387,73 +355,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "47206329-6eed-422c-bdc9-c7cec1eb5190",
-          "title": "域名注册",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754295485849",
-              "title": "namecheap",
-              "href": "https://www.namecheap.com/",
-              "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
-              "icon": "/assets/favicon_1754295511938.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
-          "title": "付费订阅托管平台",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759044488616",
-              "title": "wordpress",
-              "href": "https://wordpress.org/",
-              "description": "Open source software which you can use to easily create a beautiful website, blog, or app.",
-              "icon": "/assets/favicon_1759044512474.ico",
-              "enabled": true
-            },
-            {
-              "id": "1759044534148",
-              "title": "listmonk",
-              "href": "https://listmonk.app/",
-              "description": " Free and open source self-hosted newsletter, mailing list manager, and transactional mails",
-              "icon": "/assets/favicon_1759044556303.png",
-              "enabled": true
-            },
-            {
-              "id": "1759044578679",
-              "title": "Ghost",
-              "href": "https://ghost.org/",
-              "description": "Beautiful, modern publishing with email newsletters and paid subscriptions built-in. Used by Platformer, 404Media, Lever News, Tangle, The Browser, and thousands more.",
-              "icon": "/assets/favicon_1759044603255.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2d7d4354-20f1-41a5-beeb-068031113bca",
-          "title": "视频制作",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759282146186",
-              "title": "Remotion",
-              "href": "https://www.remotion.dev/",
-              "description": "Make videos programmatically.Create real MP4 videos with React.\nParametrize content, render server-side and build applications.",
-              "icon": "/assets/favicon_1759282148802.png",
-              "enabled": true
-            }
-          ]
         }
       ]
     },
@@ -499,61 +400,12 @@
           ]
         },
         {
-          "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
-          "title": "国外平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1755168164096",
-              "title": "Reddit - The heart of the internet",
-              "href": "https://www.reddit.com/",
-              "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
-              "icon": "/assets/favicon_1755168414977.png",
-              "enabled": true
-            },
-            {
-              "id": "1_11_5",
-              "title": "Producthunt",
-              "href": "https://www.producthunt.com/",
-              "description": "发现新鲜有趣的产品",
-              "icon": "/assets/images/logos/producthunt.png",
-              "enabled": true
-            },
-            {
-              "id": "1759031046821",
-              "title": "Hacker News",
-              "href": "https://news.ycombinator.com/",
-              "description": "Hacker News 是一家关于计算机黑客和创业公司的社会化新闻网站，由保罗·格雷厄姆的创业孵化器 Y Combinator 创建。与其它社会化新闻网站不同的是 Hacker News 未登录访客没有赞成或反对一条提交新闻的选项，不过还是可以被有足够 Karma 的用户投赞成或反对票。简而言之，Hacker News 允许提交任何可以被理解为“任何满足人们求知欲”的新闻",
-              "icon": "/assets/favicon_1759031156358.svg",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
           "title": "公众号排版",
           "icon": "Edit",
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1754791068961",
-              "title": "NeuraPress Pro Markdown Editor",
-              "href": "https://mp.leti.ltd/",
-              "description": "NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的内容排版体验。 响应式设计，支持移动设备，让创作变得更加高效。\n\n",
-              "icon": "/assets/favicon_1754791082337.svg",
-              "enabled": true
-            },
-            {
-              "id": "1754791158725",
-              "title": "NeuraPress",
-              "href": "https://md.leti.ltd/",
-              "description": "Markdown 转微信公众号内容神器",
-              "icon": "/assets/favicon_1754791168416.svg",
-              "enabled": true
-            },
             {
               "id": "1735456910129",
               "title": "WeChat Markdown Editor",
@@ -569,14 +421,6 @@
               "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
               "icon": "/assets/img_1737961266055.png",
               "enabled": true
-            },
-            {
-              "id": "item-1756907352615",
-              "enabled": true,
-              "title": "MD2Card - Markdown 转知识卡片工具",
-              "href": "https://md2card.com/zh/editor",
-              "description": "MD2Card 是一个免费的 Markdown 转知识卡片工具，支持一键生成小红书风格海报、社交媒体文案排版，让创作者轻松制作精美的图文内容。支持多种主题风格、长文自动拆分、一键导出图片，让你的创作更加高效。",
-              "icon": "/assets/favicon_1756907338099.ico"
             }
           ]
         },
@@ -601,80 +445,6 @@
               "href": "https://cursorful.com/",
               "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
               "icon": "/assets/img_1753396105178.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "0ed6d8b1-effe-4535-8cde-60ec38f9c96c",
-          "title": "AI 检测工具",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754573112532",
-              "title": "腾讯朱雀AI文本检测",
-              "href": "https://matrix.tencent.com/ai-detect/",
-              "description": "腾讯朱雀AI文本检测基于多种先进的人工智能模型，构造数百万级别的数据进行训练，能够识别出人类和AI的书写模式。该系统不仅具备优秀的英文检测能力，在处理中文数据方面表现尤为出色。\n",
-              "icon": "/assets/img_1754573290976.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6e0eb7f0-860e-43f0-bede-6e36205483e5",
-          "title": "付费订阅平台",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759043230164",
-              "title": "Quaily | 为创作者提供现代人工智慧新闻通讯服务",
-              "href": "https://quaily.com/",
-              "description": "Quaily 是一个现代化的，基于 AI 的，新闻订阅服务。它支持多种推送渠道，包括邮件，telegram 和 discord。它与流行的编辑器（如 Obsidian 和 VScode）有很好的集成。",
-              "icon": "/assets/favicon_1759043242645.png",
-              "enabled": true
-            },
-            {
-              "id": "1759043258513",
-              "title": "Medium: Read and write stories.",
-              "href": "https://medium.com/",
-              "description": "On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
-              "icon": "/assets/favicon_1759043298903.png",
-              "enabled": true
-            },
-            {
-              "id": "1759043324693",
-              "title": "Substack",
-              "href": "https://substack.com/",
-              "description": "The app for independent voices",
-              "icon": "/assets/favicon_1759043330135.svg",
-              "enabled": true
-            },
-            {
-              "id": "1759043375128",
-              "title": "微信公众平台",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "微信公众平台支持付费合集，付费文章",
-              "icon": "/assets/favicon_1759043379047.ico",
-              "enabled": true
-            },
-            {
-              "id": "1759043449477",
-              "title": "小报童",
-              "href": "https://xiaobot.net/",
-              "description": "付费专栏，体面而用心地创作",
-              "icon": "/assets/favicon_1759043454631.png",
-              "enabled": true
-            },
-            {
-              "id": "1759043585524",
-              "title": "知识星球",
-              "href": "https://zsxq.com/",
-              "description": "知识星球是创作者连接铁杆粉丝，实现知识变现的工具。任何从事创作或艺术的人，例如艺术家、工匠、教师、学术研究、科普等，只要能获得一千位铁杆粉丝，就足够生计无忧，自由创作。社群管理、内容沉淀、链接粉丝等就在知识星球。",
-              "icon": "/assets/favicon_1759043590213.ico",
               "enabled": true
             }
           ]
