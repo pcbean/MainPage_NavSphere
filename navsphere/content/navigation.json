@@ -954,9 +954,9 @@
             {
               "id": "site_1758657477193_ixf5yxuy8",
               "title": "ClawCloud",
-              "href": "https://us-west-1.run.claw.cloud/",
-              "description": "ClawCloud Dokcer",
-              "icon": "/assets/img_1758856748427.png",
+              "href": "https://run.claw.cloud/",
+              "description": "ClawCloud",
+              "icon": "/assets/favicon_1759294835277.png",
               "enabled": true
             },
             {
