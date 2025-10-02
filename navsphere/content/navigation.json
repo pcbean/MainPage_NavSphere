@@ -399,8 +399,8 @@
               "id": "3_2",
               "title": "Editor OnlineSON",
               "href": "https://jsoneditoronline.org/",
-              "description": "在各类语言编辑器",
-              "icon": "/assets/favicon_1759159525659.png",
+              "description": "JSON在线编辑器",
+              "icon": "/assets/img_1759380597525.png",
               "enabled": true
             },
             {
