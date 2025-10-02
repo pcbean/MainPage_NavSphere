@@ -434,6 +434,14 @@
               "description": "把长长的域名，变成很短的域名，方便分享",
               "icon": "https://dlink.908203.xyz/icon-192.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759381008237_g511o3jza",
+              "title": "NodeJS 编辑器",
+              "href": "https://onecompiler.com/nodejs",
+              "description": "",
+              "icon": "/assets/favicon_1759380987473.ico",
+              "enabled": true
             }
           ],
           "enabled": true
