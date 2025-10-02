@@ -388,19 +388,19 @@
               "enabled": true
             },
             {
-              "id": "3_2",
-              "title": "Editor OnlineSON",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在各类语言编辑器",
-              "icon": "/assets/favicon_1759159525659.png",
-              "enabled": true
-            },
-            {
               "id": "3_3",
               "title": "Beautifier",
               "href": "https://beautifier.io/",
               "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
               "icon": "/assets/images/logos/beautifier.png",
+              "enabled": true
+            },
+            {
+              "id": "3_2",
+              "title": "Editor OnlineSON",
+              "href": "https://jsoneditoronline.org/",
+              "description": "在各类语言编辑器",
+              "icon": "/assets/favicon_1759159525659.png",
               "enabled": true
             },
             {
