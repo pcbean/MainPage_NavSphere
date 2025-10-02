@@ -380,6 +380,14 @@
               "enabled": true
             },
             {
+              "id": "3_3",
+              "title": "Beautifier",
+              "href": "https://beautifier.io/",
+              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
+              "icon": "/assets/images/logos/beautifier.png",
+              "enabled": true
+            },
+            {
               "id": "site_1758926114272_7hha1k5c0",
               "title": "Decode - Tools",
               "href": "https://emn178.github.io/online-tools/base58/decode/",
@@ -393,14 +401,6 @@
               "href": "https://tableconvert.com/",
               "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
               "icon": "/assets/images/logos/tableconvert.png",
-              "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
               "enabled": true
             },
             {
