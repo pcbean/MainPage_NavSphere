@@ -1041,7 +1041,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1759467664280_hvn9i3ncs",
+              "title": "Cloudflare",
+              "href": "https://www.cloudflare.com/",
+              "description": "",
+              "icon": "/assets/favicon_1759467647341.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
