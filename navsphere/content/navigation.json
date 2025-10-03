@@ -1152,14 +1152,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "3f4e6935-9c11-46f8-be59-92ca1943ee71",
-          "title": "CloudFlare",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
