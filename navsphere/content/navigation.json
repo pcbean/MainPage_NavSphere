@@ -1049,6 +1049,14 @@
               "description": "",
               "icon": "/assets/favicon_1759467647341.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759467765925_a0dxzqilz",
+              "title": "CF中国域名列表",
+              "href": "https://trends.builtwith.com/websitelist/Cloudflare/China",
+              "description": "",
+              "icon": "/assets/favicon_1759467749884.ico",
+              "enabled": true
             }
           ]
         }
