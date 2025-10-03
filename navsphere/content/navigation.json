@@ -1034,6 +1034,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "95101037-204d-4756-9463-37d57e49b143",
+          "title": "CDN",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
