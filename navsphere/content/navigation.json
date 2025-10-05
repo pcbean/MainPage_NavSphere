@@ -558,6 +558,14 @@
               "description": "",
               "icon": "/assets/favicon_1759328846256.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759666931035_x3sumugrz",
+              "title": "Interia",
+              "href": "https://poczta.interia.pl/",
+              "description": "波兰邮箱",
+              "icon": "/assets/favicon_1759666916032.png",
+              "enabled": true
             }
           ]
         },
