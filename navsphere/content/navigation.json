@@ -199,6 +199,14 @@
               "enabled": true
             },
             {
+              "id": "site_1759839027230_mg4r1er3e",
+              "title": "MOON 备站",
+              "href": "https://bean.zeabur.app/",
+              "description": "影视聚合",
+              "icon": "/assets/favicon_1759838962338.png",
+              "enabled": true
+            },
+            {
               "id": "site_1758758044885_y2v5kt1ok",
               "title": "月饼-主站",
               "href": "https://beetv.908203.xyz/ ",
@@ -220,14 +228,6 @@
               "href": "https://ddys.pro/category/movie/",
               "description": "",
               "icon": "/assets/favicon_1759318584589.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1759839027230_mg4r1er3e",
-              "title": "MOON 备站",
-              "href": "https://bean.zeabur.app/",
-              "description": "影视聚合",
-              "icon": "/assets/favicon_1759838962338.png",
               "enabled": true
             }
           ]
