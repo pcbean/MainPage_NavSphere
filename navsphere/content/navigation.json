@@ -1014,6 +1014,14 @@
               "description": "",
               "icon": "/assets/img_1759844976573.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759845326851_llpcwq39y",
+              "title": "Shiper",
+              "href": "https://shiper.app/",
+              "description": "",
+              "icon": "/assets/favicon_1759845318129.png",
+              "enabled": true
             }
           ]
         },
