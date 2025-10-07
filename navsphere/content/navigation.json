@@ -305,6 +305,14 @@
           "description": "棒子国直播平台",
           "icon": "/assets/favicon_1759294680921.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759839027230_mg4r1er3e",
+          "title": "MOON 备站",
+          "href": "https://bean.zeabur.app/",
+          "description": "影视聚合",
+          "icon": "/assets/favicon_1759838962338.png",
+          "enabled": true
         }
       ],
       "subCategories": []
