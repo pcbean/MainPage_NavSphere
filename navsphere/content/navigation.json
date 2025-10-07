@@ -1006,6 +1006,14 @@
               "description": "",
               "icon": "/assets/favicon_1759294885436.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759840874406_2tgbc61f3",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/p",
+              "description": "",
+              "icon": "/assets/favicon_1759840856702.png",
+              "enabled": true
             }
           ]
         },
