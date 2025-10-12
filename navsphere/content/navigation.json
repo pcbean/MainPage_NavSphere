@@ -119,6 +119,14 @@
               "description": "",
               "icon": "/assets/img_1759570123448.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760294278279_owroodu21",
+              "title": "Claude官网镜像-提供免费账户",
+              "href": "https://easychat.top/",
+              "description": "Claude官网镜像站，免费提供国内直登体验",
+              "icon": "/assets/favicon_1760294259717.png",
+              "enabled": true
             }
           ]
         },
