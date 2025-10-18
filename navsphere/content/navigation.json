@@ -65,6 +65,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1760779845331_e9tluj090",
+              "title": "Cto.New",
+              "href": "https://cto.new/",
+              "description": "最新免费 GT5 Cladue",
+              "icon": "/assets/favicon_1760779811479.png",
+              "enabled": true
+            },
+            {
               "id": "9_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -78,14 +86,6 @@
               "href": "https://claude.ai/",
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
               "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1760779845331_e9tluj090",
-              "title": "Cto.New",
-              "href": "https://cto.new/",
-              "description": "最新免费 GT5 Cladue",
-              "icon": "/assets/favicon_1760779811479.png",
               "enabled": true
             },
             {
