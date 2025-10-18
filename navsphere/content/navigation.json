@@ -73,6 +73,14 @@
               "enabled": true
             },
             {
+              "id": "site_1759570145586_rjwofuy4g",
+              "title": "公益AI聚合站",
+              "href": "https://hohai.eu.org/",
+              "description": "",
+              "icon": "/assets/img_1759570123448.png",
+              "enabled": true
+            },
+            {
               "id": "9_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -118,14 +126,6 @@
               "href": "https://lmarena.ai/",
               "description": "AI合集",
               "icon": "/assets/img_1759294175819.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1759570145586_rjwofuy4g",
-              "title": "公益AI聚合站",
-              "href": "https://hohai.eu.org/",
-              "description": "",
-              "icon": "/assets/img_1759570123448.png",
               "enabled": true
             },
             {
