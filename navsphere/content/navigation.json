@@ -127,6 +127,14 @@
               "description": "Claude官网镜像站，免费提供国内直登体验",
               "icon": "/assets/favicon_1760294259717.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760779845331_e9tluj090",
+              "title": "Cto.New",
+              "href": "https://cto.new/",
+              "description": "最新免费 GT5 Cladue",
+              "icon": "/assets/favicon_1760779811479.png",
+              "enabled": true
             }
           ]
         },
