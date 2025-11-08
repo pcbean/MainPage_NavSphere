@@ -191,14 +191,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1758604871202_9pkhjs50t",
-              "title": "Gimy",
-              "href": "https://gimy.ai/",
-              "description": "",
-              "icon": "/assets/favicon_1759370879859.png",
-              "enabled": true
-            },
-            {
               "id": "site_1758757851735_5awumjts6",
               "title": "Moon-主站",
               "href": "https://beantv.908203.xyz/",
