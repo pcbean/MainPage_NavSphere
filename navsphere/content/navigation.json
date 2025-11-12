@@ -713,6 +713,14 @@
               "description": "",
               "icon": "/assets/favicon_1759294757819.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762937258493_gnri7thv8",
+              "title": "Sms-activate",
+              "href": "https://sms-activate.io/",
+              "description": "访问 sms-activate.io",
+              "icon": "/assets/favicon_1762937249044.png",
+              "enabled": true
             }
           ]
         }
