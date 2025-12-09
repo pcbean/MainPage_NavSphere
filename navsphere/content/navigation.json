@@ -42,9 +42,9 @@
         {
           "id": "site_1761678752244_tvhf185ay",
           "title": "密码管理器",
-          "href": "https://password.pcbean.nyc.mn",
+          "href": "https://pass.pcbean.nyc.mn",
           "description": "",
-          "icon": "/assets/img_1761678744988.png",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pass.pcbean.nyc.mn",
           "enabled": true
         }
       ],
