@@ -1223,14 +1223,6 @@
               "description": "TG月续",
               "icon": "/assets/favicon_1758855757532.png",
               "enabled": true
-            },
-            {
-              "id": "site_1758855822486_7yj9u9v2y",
-              "title": "游乐场",
-              "href": "https://ylccloud.top/#/dashboard",
-              "description": "TG月续",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ylccloud.top",
-              "enabled": true
             }
           ]
         }
