@@ -607,6 +607,14 @@
               "description": "有效期1小时",
               "icon": "/assets/favicon_1759328866604.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1774461429579_i1lhj0s5p",
+              "title": "PinMX - Free Permanent Email Account Creation Platform, Quick Registration for Unlimited Emails",
+              "href": "https://www.pinmx.com/",
+              "description": "PinMX",
+              "icon": "/assets/favicon_1774461417194.png",
+              "enabled": true
             }
           ]
         },
