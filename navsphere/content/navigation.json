@@ -1038,14 +1038,6 @@
               "description": "",
               "icon": "/assets/favicon_1759845318129.png",
               "enabled": true
-            },
-            {
-              "id": "site_1781459906780_y2twve7ax",
-              "title": "Render | The cloud for builders",
-              "href": "https://render.com/",
-              "description": "",
-              "icon": "/assets/favicon_1781459893250.svg",
-              "enabled": true
             }
           ]
         },
