@@ -1104,6 +1104,14 @@
               "description": "Fully managed serverless cloud database service.",
               "icon": "/assets/favicon_1759294943165.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1781459942599_usbabdi94",
+              "title": "Neon — Postgres backends for apps and agents",
+              "href": "https://neon.com/",
+              "description": "",
+              "icon": "/assets/favicon_1781459936330.svg",
+              "enabled": true
             }
           ]
         },
