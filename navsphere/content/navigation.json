@@ -1008,14 +1008,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1758657477193_ixf5yxuy8",
-              "title": "ClawCloud",
-              "href": "https://run.claw.cloud/",
-              "description": "ClawCloud",
-              "icon": "/assets/favicon_1759294835277.png",
-              "enabled": true
-            },
-            {
               "id": "site_1758752334975_ebhse0x75",
               "title": "Freecloud",
               "href": "https://panel.freecloud.ltd/clientarea.php",
