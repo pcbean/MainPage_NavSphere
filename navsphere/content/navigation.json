@@ -1063,6 +1063,14 @@
               "description": "",
               "icon": "/assets/favicon_1759328353325.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781497575116_qc9d6l2uy",
+              "title": "Koyeb:",
+              "href": "https://www.koyeb.com/",
+              "description": "",
+              "icon": "/assets/favicon_1781497558981.png",
+              "enabled": true
             }
           ]
         },
