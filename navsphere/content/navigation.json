@@ -1104,6 +1104,14 @@
               "description": "",
               "icon": "/assets/favicon_1781459936330.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1781769944877_ycl38k2gm",
+              "title": "Aiven ",
+              "href": "https://aiven.io/",
+              "description": "",
+              "icon": "/assets/favicon_1781769915336.png",
+              "enabled": true
             }
           ]
         },
