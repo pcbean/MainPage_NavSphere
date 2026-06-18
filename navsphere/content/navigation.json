@@ -1099,9 +1099,9 @@
             },
             {
               "id": "site_1781459942599_usbabdi94",
-              "title": "Neon — Postgres backends for apps and agents",
+              "title": "neon",
               "href": "https://neon.com/",
-              "description": "",
+              "description": "在线：postgresql\n额度较少每个月5G流量",
               "icon": "/assets/favicon_1781459936330.svg",
               "enabled": true
             },
