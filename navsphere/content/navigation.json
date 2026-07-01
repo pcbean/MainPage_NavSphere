@@ -1098,14 +1098,6 @@
               "enabled": true
             },
             {
-              "id": "site_1781459942599_usbabdi94",
-              "title": "neon",
-              "href": "https://neon.com/",
-              "description": "在线：postgresql\n额度较少每个月5G流量",
-              "icon": "/assets/favicon_1781459936330.svg",
-              "enabled": true
-            },
-            {
               "id": "site_1781978788371_b18s2dfcf",
               "title": "TiDB Cloud",
               "href": "https://tidbcloud.com/",
