@@ -1106,14 +1106,6 @@
               "enabled": true
             },
             {
-              "id": "site_1781769944877_ycl38k2gm",
-              "title": "Aiven ",
-              "href": "https://aiven.io/",
-              "description": "MySQL 1G内存 1G磁盘",
-              "icon": "/assets/favicon_1781769915336.png",
-              "enabled": true
-            },
-            {
               "id": "site_1781978788371_b18s2dfcf",
               "title": "TiDB Cloud",
               "href": "https://tidbcloud.com/",
